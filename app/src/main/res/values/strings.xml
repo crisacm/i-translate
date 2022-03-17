@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">iTranslate</string>
+    <string name="text_lema">Be a human translator machine</string>
+
+    <string name="text_iniciar">Iniciar Juego</string>
+    <string name="text_traducir">Traducir</string>
+    <string name="text_palabras">Palabras:</string>
+    <string name="text_barraInclinada">/</string>
+    <string name="text_puntuaciones">Puntuaciones</string>
+    <string name="text_comoJugar">Como jugar</string>
+    <string name="text_info">Información</string>
+
+    <string name="hint_traduccion">Ingrese aquí la traducción</string>
+</resources>
