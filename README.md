@@ -2,9 +2,7 @@
 
 `i-translate` es un juego desarrollado inicialmente en Java con el objetivo de traducir el mayor número de palabras corréctamente para obtener más puntos.
 
-```
-Inicialmente el objetivo era crear un juego bastante completo con la capacidad de guardar historial de resultados. Esta fue mi primera aplicación, por lo tanto el proyecto se encuentra incompleto.
-```
+> Inicialmente el objetivo era crear un juego bastante completo con la capacidad de guardar historial de resultados. Esta fue mi primera aplicación, por lo tanto el proyecto se encuentra incompleto.
 
 ### Objetivos iniciales
 
